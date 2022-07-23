@@ -147,7 +147,7 @@ button {
 
 footer{
     display: flex;
-    width: 100vw;
+    width: 90vw;
     height: fit-content;
     justify-content: space-around;
     margin-left: 100px;
