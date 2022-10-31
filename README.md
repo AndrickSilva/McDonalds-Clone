@@ -1,5 +1,5 @@
 # McDonals-Clone
 
-[Live Preview](https://andricksilva.github.io/McDonals-Clone/)
+[Live Preview](https://mc.ajs.social/)
 ---
 <img src="Screenshots/image.png">
